@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=alejandroatacho&theme=onedark" alt="alejandroatacho" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [WIP](https://github.com/alejandroatacho?tab=repositories)
+- 👨‍💻 All of my projects are available at my [github repositories](https://github.com/alejandroatacho?tab=repositories)
 
 - ⚡ Fun fact **I love playing games from time to time and try my best to learn new programming languages**
 
