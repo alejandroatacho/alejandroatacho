@@ -8,16 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandroatacho" alt="alejandroatacho" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [WIP](WIP)
+- 👨‍💻 All of my projects are available at [WIP](https://github.com/alejandroatacho?tab=repositories)
 
 - ⚡ Fun fact **I love playing games from time to time and try my best to learn new programming languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/hinamizawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hinamizawa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alejandro atacho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro atacho" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alejandro-atacho-a0ab97107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro atacho" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hinamizawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hinamizawa" height="30" width="40" /></a>
-<a href="https://discord.gg/᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼#0001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
