@@ -1,6 +1,7 @@
 <!--
 **alejandroatacho/alejandroatacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<style>d-flex flex-justify-between:display:none;</style>
 <h1 align="center">Hello 👋, Welcome to my github page</h1>
 <h3 align="center">Currently working as Web Developer in Curaçao and use github for fun mini-projects to keep so I can return to them in the future.</h3>
 
