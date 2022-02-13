@@ -12,6 +12,9 @@
 
 - ⚡ Fun fact **I love playing games from time to time and try my best to learn new programming languages**
 
+## :electric_plug: my environment. :computer:
+i use Visual Studio Code <img alt="VSCode" width="17px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/> as my ide.
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://codepen.io/hinamizawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hinamizawa" height="30" width="40" /></a>
