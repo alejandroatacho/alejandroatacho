@@ -4,8 +4,6 @@
 <h1 align="center">Hello 👋, Welcome to my github page</h1>
 <h3 align="center">I am currently working as Web Developer in Curaçao and use github for fun mini-projects to keep so I can return to them in the future whenever I have free time to continue with them.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alejandroatacho&label=Profile%20views&color=0e75b6&style=flat" alt="alejandroatacho" /> </p>
-
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=alejandroatacho&theme=onedark" alt="alejandroatacho" /></a> </p>
 
 
