@@ -1,8 +1,8 @@
 <!--
 **alejandroatacho/alejandroatacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-.div.text-mono.text-small.mb-3 {
-display:none;}
+<style>.div.text-mono.text-small.mb-3 {
+display:none;}</style>
 <h1 align="center">Hello 👋, Welcome to my github page</h1>
 <h3 align="center">I am currently working as Web Developer in Curaçao and use github for fun mini-projects to keep so I can return to them in the future whenever I have free time to continue with them.</h3>
 <br>
