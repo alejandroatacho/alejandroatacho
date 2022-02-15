@@ -3,10 +3,10 @@
 -->
 <h1 align="center">Hello 👋, Welcome to my github page</h1>
 <h3 align="center">I am currently working as Web Developer in Curaçao and use github for fun mini-projects to keep so I can return to them in the future whenever I have free time to continue with them.</h3>
-
+<br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=alejandroatacho&theme=onedark" alt="alejandroatacho" /></a> </p>
 
-
+<br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://codepen.io/hinamizawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hinamizawa" height="30" width="40" /></a>
