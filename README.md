@@ -34,9 +34,11 @@
 <h3>Miscellaneous:</h3>
 <a href="https://www.w3schools.com/xml/xml_whatis.asp"><img src="https://i.ibb.co/gWSNdRB/xml-icon.png" alt="xml-icon" width="40" height="40" border="0"><a/>
 <a href=https://www.bbcode.org/><img src="https://i.ibb.co/TBfctdL/bj8LoZ1.png" width="auto" height="40" alt="bbcode" border="0"></a>
-<a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/hWbmstm/pngwing-com.png" alt="8-83927-microsoft-powerpoint-logo-microsoft-powerpoint-2010-clipart" width="auto" height="40" border="0"></a>
-<a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/P9qktLw/pngwing-com-1.png" width="auto" height="40" alt="109831" border="0"></a>
-<a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document-clip-art-ms-word-png-photos" border="0"></a><br>
+<a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/hWbmstm/pngwing-com.png" alt="microsoft-powerpoint" width="auto" height="40" border="0"></a>
+<a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/P9qktLw/pngwing-com-1.png" width="auto" height="40" alt="Excel" border="0"></a>
+<a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document" border="0"></a>
+<a href="http://google.com"><img src="https://i.ibb.co/SfmVY2k/kisspng-google-drive-computer-icons-google-docs-vector-png-google-drive-5ab1173fd5ce04-4249597815215.jpg" alt="kisspng-google-drive-computer-icons-google-docs-vector-png-google-drive-5ab1173fd5ce04-4249597815215" alt="google_drive" border="0"></a>
+<br>
 &nbsp;
 &nbsp;
 
