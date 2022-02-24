@@ -38,6 +38,8 @@
 <a href="#"><img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document-clip-art-ms-word-png-photos" border="0"></a><br>
 &nbsp;
 &nbsp;
+
+<img align="center" src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" /><a href="https://info.flagcounter.com/AyNK"></a>
+<br>
 <p><img align="left" width="495" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroatacho&show_icons=true&locale=en&layout=compact" alt="alejandroatacho" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandroatacho&show_icons=true&locale=en" alt="alejandroatacho" /></p>
-<img align="center" src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" /><a href="https://info.flagcounter.com/AyNK"></a>
