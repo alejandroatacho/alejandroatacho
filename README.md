@@ -32,11 +32,11 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></p>
 
 <h3>Miscellaneous</h3>
-<a href="#"><img src="https://i.ibb.co/gWSNdRB/xml-icon.png" alt="xml-icon" width="40" height="40" border="0"><a/>
-<a href=#><img src="https://i.ibb.co/TBfctdL/bj8LoZ1.png" width="auto" height="40" alt="bbcode" border="0"></a>
-<a href="#"><img src="https://i.ibb.co/hWbmstm/pngwing-com.png" alt="8-83927-microsoft-powerpoint-logo-microsoft-powerpoint-2010-clipart" width="auto" height="40" border="0"></a>
-<a href="#"><img src="https://i.ibb.co/P9qktLw/pngwing-com-1.png" width="auto" height="40" alt="109831" border="0"></a>
-<a href="#"><img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document-clip-art-ms-word-png-photos" border="0"></a><br>
+<a href="https://www.w3schools.com/xml/xml_whatis.asp"><img src="https://i.ibb.co/gWSNdRB/xml-icon.png" alt="xml-icon" width="40" height="40" border="0"><a/>
+<a href=https://www.bbcode.org/><img src="https://i.ibb.co/TBfctdL/bj8LoZ1.png" width="auto" height="40" alt="bbcode" border="0"></a>
+<a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/hWbmstm/pngwing-com.png" alt="8-83927-microsoft-powerpoint-logo-microsoft-powerpoint-2010-clipart" width="auto" height="40" border="0"></a>
+<a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/P9qktLw/pngwing-com-1.png" width="auto" height="40" alt="109831" border="0"></a>
+<a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document-clip-art-ms-word-png-photos" border="0"></a><br>
 &nbsp;
 &nbsp;
 
