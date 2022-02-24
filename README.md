@@ -37,7 +37,7 @@
 <a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/hWbmstm/pngwing-com.png" alt="microsoft-powerpoint" width="auto" height="40" border="0"></a>
 <a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/P9qktLw/pngwing-com-1.png" width="auto" height="40" alt="Excel" border="0"></a>
 <a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document" border="0"></a>
-<a href="http://google.com"><img src="https://i.ibb.co/SfmVY2k/kisspng-google-drive-computer-icons-google-docs-vector-png-google-drive-5ab1173fd5ce04-4249597815215.jpg" alt="kisspng-google-drive-computer-icons-google-docs-vector-png-google-drive-5ab1173fd5ce04-4249597815215" width="auto" height="40" alt="google_drive" border="0"></a>
+<a href="http://google.com"><img src="https://i.ibb.co/J58s0dc/kisspng-google-drive-computer-icons-google-docs-transparent-google-drive-png-5ab1174c17bbe1-82756443.png" alt="kisspng-google-drive-computer-icons-google-docs-vector-png-google-drive-5ab1173fd5ce04-4249597815215" width="auto" height="40" alt="google_drive" border="0"></a>
 <br>
 &nbsp;
 &nbsp;
