@@ -26,9 +26,9 @@
 <h3>Miscellaneous</h3>
 <a href="#"><img src="https://i.ibb.co/gWSNdRB/xml-icon.png" alt="xml-icon" width="40" height="40" border="0"><a/>
 <a href=#><img src="https://i.ibb.co/TBfctdL/bj8LoZ1.png" width="auto" height="40" alt="bbcode" border="0"></a>
-<a href="#"><img src="https://i.ibb.co/8j45Kmk/8-83927-microsoft-powerpoint-logo-microsoft-powerpoint-2010-clipart.jpg" alt="8-83927-microsoft-powerpoint-logo-microsoft-powerpoint-2010-clipart" width="auto" height="40" border="0"></a>
-<a href="#"><img src="https://i.ibb.co/Dz4LsHV/109831.jpg" width="auto" height="40" alt="109831" border="0"></a>
-<a href="#"><img src="https://i.ibb.co/V315PHc/microsoft-word-document-clip-art-ms-word-png-photos.jpg" width="auto" height="40" alt="microsoft-word-document-clip-art-ms-word-png-photos" border="0"></a>
+<a href="#"><img src="https://i.ibb.co/hWbmstm/pngwing-com.png" alt="8-83927-microsoft-powerpoint-logo-microsoft-powerpoint-2010-clipart" width="auto" height="40" border="0"></a>
+<a href="#"><img src="https://i.ibb.co/P9qktLw/pngwing-com-1.png" width="auto" height="40" alt="109831" border="0"></a>
+<a href="#"><img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document-clip-art-ms-word-png-photos" border="0"></a>
  
 <h3 align="left">OOP</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a><a href="https://pngset.com/download-free-png-ddjuz" target="_blank" rel="noreferrer"><a href="https://odoo.com"><img src="https://i.ibb.co/JtvW03D/odoo-number-symbol-text-logo-transparent-png-1106714.png" alt="odoo-number-symbol-text-logo-transparent-png-1106714" width="auto" height="40" margin-bottom ="-20px" alt="odoo"></a></p>
