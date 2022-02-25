@@ -34,7 +34,7 @@
 <h3>Miscellaneous:</h3>
 <a href="https://www.w3schools.com/xml/xml_whatis.asp"><img src="https://i.ibb.co/gWSNdRB/xml-icon.png" alt="xml-icon" width="40" height="40" border="0"><a/>
 <a href=https://www.bbcode.org/><img src="https://i.ibb.co/TBfctdL/bj8LoZ1.png" width="auto" height="40" alt="bbcode" border="0"></a>
-<a href="https://www.markdownguide.org/"><img src="https://i.ibb.co/QFV1v2v/kisspng-markdown-text-editor-html-github-5adb9822124578-5281760315243407700749.png"" alt="marksdown" height="60" width="auto" border="0"></a>
+<a href="https://www.markdownguide.org/"><img src="https://i.ibb.co/QFV1v2v/kisspng-markdown-text-editor-html-github-5adb9822124578-5281760315243407700749.png"" alt="marksdown" height="40" width="auto" border="0"></a>
 <a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/hWbmstm/pngwing-com.png" alt="microsoft-powerpoint" width="auto" height="40" border="0"></a>
 <a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/P9qktLw/pngwing-com-1.png" width="auto" height="40" alt="Excel" border="0"></a>
 <a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document" border="0"></a>
