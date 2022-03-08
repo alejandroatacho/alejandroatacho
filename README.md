@@ -32,6 +32,8 @@
 <a href="https://www.w3schools.com/xml/xml_whatis.asp"><img src="https://i.ibb.co/gWSNdRB/xml-icon.png" alt="xml-icon" width="40" height="40" border="0"><a/>
 <a href=https://www.bbcode.org/><img src="https://i.ibb.co/TBfctdL/bj8LoZ1.png" width="auto" height="40" alt="bbcode" border="0"></a>
 <a href="https://www.markdownguide.org/"><img src="https://i.ibb.co/QFV1v2v/kisspng-markdown-text-editor-html-github-5adb9822124578-5281760315243407700749.png" alt="marksdown" height="40" width="auto" border="0"></a> </p>
+
+<h3>Designing tools</h3>
 <p>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
