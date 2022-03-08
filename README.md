@@ -28,8 +28,11 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a><a href="https://pngset.com/download-free-png-ddjuz" target="_blank" rel="noreferrer"><a href="https://odoo.com"><img src="https://i.ibb.co/JtvW03D/odoo-number-symbol-text-logo-transparent-png-1106714.png" alt="odoo-number-symbol-text-logo-transparent-png-1106714" width="auto" height="40" margin-bottom ="-20px" alt="odoo"></a></p>
 
 <h3 align="left">Designing Tools:</h3>
+<p>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></p>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+<a href="adobe.com" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/L1nq5V0/premiere-pro-icon.png" alt="photoshop" width="40" height="40"/></a>
+<img src="" alt="premiere-pro-icon" border="0"></p>
 
 <h3>Miscellaneous:</h3>
 <a href="https://www.w3schools.com/xml/xml_whatis.asp"><img src="https://i.ibb.co/gWSNdRB/xml-icon.png" alt="xml-icon" width="40" height="40" border="0"><a/>
