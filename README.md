@@ -10,7 +10,7 @@
 
 <h3 align="left">My Environments:</h3>
 <p>
-<img alt="VSCode" width="40px" height="40px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/> <img alt="PyCharm" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/>
+<img alt="VSCode" width="40px" height="40px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/> 
  <a href="https://notepad-plus-plus.org"><img src="https://i.ibb.co/gSbvCC9/notepad.png" width="auto" height="40px" alt="notepad++" border="0"></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://desktop.github.com/"><img src="https://i.ibb.co/7KZpZkL/1024px-Github-desktop-logo-symbol-svg.png" height="40" width="40" alt="1024px-Github-desktop-logo-symbol-svg" border="0"></a></p>
 
 <h3 align="left">Web Development:</h3>
