@@ -44,7 +44,7 @@
 <img align="center" src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" /><a href="https://info.flagcounter.com/AyNK"></a>
 <br>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/alejandroatacho">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phanatagama&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
