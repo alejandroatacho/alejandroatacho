@@ -46,6 +46,6 @@
 
 <p align="left">
 <a href="https://github.com/alejandroatacho">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandroatacho&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandroatacho&layout=compact&langs_count=8&theme=midnight-blue"/>
 </a>
 </p>
