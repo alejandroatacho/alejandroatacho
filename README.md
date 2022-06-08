@@ -51,7 +51,6 @@
 </p>
 <p align = "left">
  <h3> Goals</h3>
- <br>
  * Learn Javascript Properly.<br>
  * Enter the world of React.<br>
  * Become a lot better with Python.<br>
