@@ -49,3 +49,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandroatacho&layout=compact&langs_count=12&theme=midnight-purple"/>
 </a>
 </p>
+<p align = "left">
+ <h3> Goals</h3>
+ * Learn Javascript Properly.
+ * Enter the world of React.
+ * Become a lot better with Python.
+</p>
