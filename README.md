@@ -55,4 +55,5 @@
  * Learn Javascript Properly.<br>
  * Enter the world of React.<br>
  * Become a lot better with Python.<br>
+ * Learn C++ for own personal goals.
 </p>
