@@ -54,5 +54,6 @@
  * Learn Javascript Properly.<br>
  * Enter the world of React.<br>
  * Become a lot better with Python.<br>
- * Learn C++ for own personal goals.
+ * Learn C++ for own personal goals.<br>
+ * Learn Odoo on a professional level for work.
 </p>
