@@ -2,7 +2,7 @@
 **alejandroatacho/alejandroatacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hello 👋, Welcome to my github page</h1>
-<h3 align="center">I'm a Developer based in Curaçao, currently balancing my university studies with work. I use GitHub to host fun mini-projects that I can return to in my free time.</h3>
+<h3 align="center">I'm a Developer based in Curaçao, currently balancing my university studies with work. I use GitHub to host/backup fun mini-projects that I can return to in my free time.</h3>
 <br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=alejandroatacho&theme=onedark" alt="alejandroatacho" /></a> </p>
 
