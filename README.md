@@ -6,7 +6,7 @@
 <br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=alejandroatacho&theme=onedark" alt="alejandroatacho" /></a> </p>
 
-<h2 align="left">Languages and Tools that I can use:</h2>
+<h2 align="left">🔧 Languages and Tools that I can use:</h2>
 
 <h3 align="left">My Environments:</h3>
 <p>
@@ -40,10 +40,17 @@
 <a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document" border="0"></a>
 <a href="http://google.com"><img src="https://i.ibb.co/J58s0dc/kisspng-google-drive-computer-icons-google-docs-transparent-google-drive-png-5ab1174c17bbe1-82756443.png" alt="kisspng-google-drive-computer-icons-google-docs-vector-png-google-drive-5ab1173fd5ce04-4249597815215" width="auto" height="40" alt="google_drive" border="0"></a>
 <br>
-&nbsp;
-&nbsp;
-
+<h2 align ="left">🎯 Goals: </h2>
+<p align = "left">
+ * Learn Javascript Properly.<br>
+ * Enter the world of React.<br>
+ * Become a lot better with Python.<br>
+ * Learn C++ & Rust for own personal goals.
+</p>
+<h3>📊 Stats</h3>
+<p>
 <img align="center" src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" /><a href="https://info.flagcounter.com/AyNK"></a>
+</p>
 <br>
 
 <p align="left">
@@ -51,11 +58,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandroatacho&layout=compact&langs_count=12&theme=midnight-purple"/>
 </a>
 </p>
-<h2 align ="left"> Goals: </h2>
-<p align = "left">
- * Learn Javascript Properly.<br>
- * Enter the world of React.<br>
- * Become a lot better with Python.<br>
- * Learn C++ & Rust for own personal goals.<br>
-</p>
+
 
