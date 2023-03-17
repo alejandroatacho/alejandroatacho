@@ -47,12 +47,13 @@
 - Become a lot better with Python.<br>
 - Learn C++ & Rust for personal goals.
 </p>
-<h2>📊 Stats:</h2>
+
+<h2 align="left">🌐 Visitor Count:</h2>
 <p>
 <img align="center" src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" /><a href="https://info.flagcounter.com/AyNK"></a>
 </p>
 <br>
-
+<h2>📊 Stats:</h2>
 <p align="left">
 <a href="https://github.com/alejandroatacho">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandroatacho&layout=compact&langs_count=12&theme=midnight-purple"/>
