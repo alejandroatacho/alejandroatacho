@@ -47,7 +47,7 @@
  * Become a lot better with Python.<br>
  * Learn C++ & Rust for own personal goals.
 </p>
-<h3>📊 Stats</h3>
+<h2>📊 Stats:</h2>
 <p>
 <img align="center" src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" /><a href="https://info.flagcounter.com/AyNK"></a>
 </p>
