@@ -2,7 +2,7 @@
 **alejandroatacho/alejandroatacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hello 👋, Welcome to my github page</h1>
-<h3 align="center">I am currently working as a Developer in Curaçao next to my university study. I use github for fun mini-projects to keep so I can return to them in the future whenever I have free time to continue with them.</h3>
+<h3 align="center">I'm a Developer based in Curaçao, currently balancing my university studies with work. I use GitHub to host fun mini-projects that I can return to in my free time.</h3>
 <br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=alejandroatacho&theme=onedark" alt="alejandroatacho" /></a> </p>
 
@@ -16,14 +16,14 @@
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/> </a>
  <a href="https://wordpress.com/"><img src="https://i.ibb.co/hgX5MVL/Word-Press-logotype-wmark.png" height="40" width="auto" alt="Word-Press-logotype-wmark" border="0"></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://sass-lang.com/styleguide/"><img src="https://i.ibb.co/2vt1Qwf/color-1c4aab2b.png" height="40" width="auto" alt="Word-Press-logotype-wmark" border="0"></a>
- 
+
 </p>
 
 <h3 align="left">OOP:</h3>
 <p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://cplusplus.com"><img src="https://i.ibb.co/vmbL7Yn/ISO-C-Logo-svg.png" alt="C++" width="auto" height="40" margin-bottom ="-20px"></a> <a href="https://www.w3schools.com/xml/xml_whatis.asp"><img src="https://i.ibb.co/gWSNdRB/xml-icon.png" alt="xml-icon" width="40" height="40" border="0"><a/> <a href="https://www.w3schools.com/xml/xml_whatis.asp"><img src="https://i.ibb.co/TH0L2WG/XSL.png" alt="xslt-icon" width="40" height="40" border="0"><a/> <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a><a href="https://pngset.com/download-free-png-ddjuz" target="_blank" rel="noreferrer"> <a href="https://odoo.com"><img src="https://i.ibb.co/JtvW03D/odoo-number-symbol-text-logo-transparent-png-1106714.png" alt="odoo-number-symbol-text-logo-transparent-png-1106714" width="auto" height="40" margin-bottom ="-20px" alt="odoo"></a>
  </p>
- 
+
 <h3>Miscellaneous:</h3><p>
 <a href=https://www.bbcode.org/><img src="https://i.ibb.co/TBfctdL/bj8LoZ1.png" width="auto" height="40" alt="bbcode" border="0"></a>
 <a href="https://www.markdownguide.org/"><img src="https://i.ibb.co/QFV1v2v/kisspng-markdown-text-editor-html-github-5adb9822124578-5281760315243407700749.png" alt="marksdown" height="40" width="auto" border="0"></a>  <a href="#"><img src="https://i.ibb.co/TtXDprj/full-colored-dark.png" alt="Bash-Shell" height="40" width="auto" border="0"></a></p>
@@ -42,10 +42,10 @@
 <br>
 <h2 align ="left">🎯 Goals: </h2>
 <p align = "left">
- * Learn Javascript Properly.<br>
- * Enter the world of React.<br>
- * Become a lot better with Python.<br>
- * Learn C++ & Rust for own personal goals.
+- Learn Javascript properly.<br>
+- Enter the world of React.<br>
+- Become a lot better with Python.<br>
+- Learn C++ & Rust for personal goals.
 </p>
 <h2>📊 Stats:</h2>
 <p>
@@ -58,5 +58,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandroatacho&layout=compact&langs_count=12&theme=midnight-purple"/>
 </a>
 </p>
-
-
