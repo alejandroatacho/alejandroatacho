@@ -87,5 +87,5 @@
 
 <div style="text-align:center">
 <a href="#">
-  <img src="img/Bottom.svg"></a>
+  <img src=".github/img/Bottom.svg"></a>
 </div>
