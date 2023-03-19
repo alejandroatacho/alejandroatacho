@@ -86,5 +86,6 @@
 </details>
 
 <div style="text-align:center">
-  <img src="img/bottom.svg">
+<a href="#">
+  <img src="img/Bottom.svg"></a>
 </div>
