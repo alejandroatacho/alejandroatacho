@@ -74,7 +74,7 @@
 </p>
 
 <details align="center">
-  <summary style="background-color: #4c4c4c; color: white; padding: 10px; border-radius: 5px; cursor: pointer;">Useless Osu Info, unless you are a part of the community ❤️</summary>
+  <summary><strong>🔽 Useless Osu Info, unless you are a part of the community ❤️ 🔽</strong></summary>
   <br>
   <p>Thanks to all the Osu players who got me into development and continued developing long after most of us stopped playing!</p>
   <p>I am forever in debt to this community!</p>
