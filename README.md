@@ -90,6 +90,7 @@
 
 [![Alejandro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alejandroatacho&theme=react-dark)](https://github.com/alejandroatacho)
 </p>
+
 <details align="center">
   <summary align="center"><strong>🔽 A Tribute to the Osu! Community ❤️ 🔽</strong></summary>
   <br>
