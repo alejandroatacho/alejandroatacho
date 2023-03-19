@@ -65,6 +65,6 @@
 </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alejandroatacho)](https://github.com/alejandroatacho)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alejandroatacho&theme=react-dark)](https://github.com/alejandroatacho)
 
 <!--START_SECTION:activity-->
