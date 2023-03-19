@@ -72,19 +72,19 @@
 
 [![Alejandro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alejandroatacho&theme=react-dark)](https://github.com/alejandroatacho)
 </p>
-<!--START_SECTION:activity-->
 
 <details align="center">
-  <summary>Useless Info, unless your part of the community ❤️</summary>
+  <summary style="background-color: #4c4c4c; color: white; padding: 10px; border-radius: 5px; cursor: pointer;">Useless Osu Info, unless you are a part of the community ❤️</summary>
+  <br>
   <p>Thanks to all the Osu players who got me into development and continued developing long after most of us stopped playing!</p>
   <p>I am forever in debt to this community!</p>
   <p align="center">
   <!-- osu! card -->
   <img src="https://osu-sig.vercel.app/card?user=Themoonbunny&mode=taiko&lang=en&round_avatar=true&animation=true&hue=200&w=1375&h=800&skills=true" width="455"/>
 
-</p>
-
+  </p>
 </details>
+
 <div style="text-align:center">
-  <img src=".github/img/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif">
+  <img src=".github/img/bottom.svg">
 </div>
