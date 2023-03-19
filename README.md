@@ -91,7 +91,7 @@
 [![Alejandro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alejandroatacho&theme=react-dark)](https://github.com/alejandroatacho)
 </p>
 <details align="center">
-  <summary><strong>🔽 A Tribute to the Osu! Community ❤️ 🔽</strong></summary>
+  <summary align="center"><strong>🔽 A Tribute to the Osu! Community ❤️ 🔽</strong></summary>
   <br>
   <p align="center">A special thanks to all the Osu! players who inspired me to dive into development and continued to nurture the passion for creating, even after many of us stopped playing. I am forever grateful to this amazing community!</p>
   <br>
