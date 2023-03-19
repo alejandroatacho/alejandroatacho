@@ -64,4 +64,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandroatacho&layout=compact&langs_count=12&theme=midnight-purple"/>
 </a>
 </p>
+
+<p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alejandroatacho)](https://github.com/ashutosh00710/github-readme-activity-graph)</p>
 <!--START_SECTION:activity-->
