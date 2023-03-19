@@ -5,7 +5,8 @@
   <img src="https://streak-stats.demolab.com?user=alejandroatacho&theme=merko&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<h1 align="center">Hello 👾, Welcome to my Github page</h1>
+# <h1 align="center">Hello 👾, Welcome to my Github page</h1>
+
 <h3 align="center">I'm a Developer based in Curaçao, currently balancing my university studies with work. I use GitHub to host/backup fun mini-projects that I can return to in my free time.</h3>
 <br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=alejandroatacho&theme=onedark" alt="alejandroatacho" /></a> </p>
@@ -56,10 +57,22 @@
 <h2 align="left">🎯 Goals:</h2>
 
 <ul>
-  <li>Learn Javascript properly.</li>
-  <li>Enter the world of React.</li>
-  <li>Become a lot better with Python.</li>
-  <li>Learn C++ & Rust for personal goals.</li>
+  <li><strong>Learn Javascript properly: </strong></li>
+  <ul>
+    <li>Improve my understanding of Javascript to build more interactive and dynamic web applications, and enhance my front-end development skills.</li>
+  </ul>
+  <li><strong>Enter the world of React:</strong></li>
+  <ul>
+    <li>Master React to develop scalable and maintainable user interfaces and leverage its popularity to work on diverse projects and collaborate with other developers.</li>
+  </ul>
+  <li><strong>Become a lot better with Python:</strong></li>
+  <ul>
+    <li>Strengthen my Python proficiency to work on a wider range of projects, from web applications and data analysis to machine learning and automation.</li>
+  </ul>
+  <li><strong>Learn C++ & Rust for personal goals: </strong></li>
+  <ul>
+    <li>Gain expertise in C++ and Rust to explore system programming, performance optimization, and other low-level applications, enhancing my overall skill set as a developer.</li>
+  </ul>
 </ul>
 
 <h2 align="left">👁️ Visitor Count:</h2>
@@ -77,16 +90,14 @@
 
 [![Alejandro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alejandroatacho&theme=react-dark)](https://github.com/alejandroatacho)
 </p>
-
 <details align="center">
-  <summary><strong>🔽 Useless Osu Info, unless you are a part of the community ❤️ 🔽</strong></summary>
+  <summary><strong>🔽 A Tribute to the Osu! Community ❤️ 🔽</strong></summary>
   <br>
-  <p>Thanks to all the Osu players who got me into development and continued developing long after most of us stopped playing!</p>
-  <p>I am forever in debt to this community!</p>
+  <p align="center">A special thanks to all the Osu! players who inspired me to dive into development and continued to nurture the passion for creating, even after many of us stopped playing. I am forever grateful to this amazing community!</p>
+  <br>
   <p align="center">
-  <!-- osu! card -->
-  <img src="https://osu-sig.vercel.app/card?user=Themoonbunny&mode=taiko&lang=en&round_avatar=true&animation=true&hue=200&w=1375&h=800&skills=true" width="455"/>
-
+    <!-- osu! card -->
+    <img src="https://osu-sig.vercel.app/card?user=Themoonbunny&mode=taiko&lang=en&round_avatar=true&animation=true&hue=200&w=1375&h=800&skills=true" width="455"/>
   </p>
 </details>
 
