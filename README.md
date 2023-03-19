@@ -91,8 +91,9 @@
 [![Alejandro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alejandroatacho&theme=react-dark)](https://github.com/alejandroatacho)
 </p>
 
-<details align="center">
-  <summary align="center"><strong>🔽 A Tribute to the Osu! Community ❤️ 🔽</strong></summary>
+<p align="center">
+<details>
+  <summary><strong>🔽 A Tribute to the Osu! Community ❤️ 🔽</strong></summary>
   <br>
   <p align="center">A special thanks to all the Osu! players who inspired me to dive into development and continued to nurture the passion for creating, even after many of us stopped playing. I am forever grateful to this amazing community!</p>
   <br>
@@ -101,6 +102,9 @@
     <img src="https://osu-sig.vercel.app/card?user=Themoonbunny&mode=taiko&lang=en&round_avatar=true&animation=true&hue=200&w=1375&h=800&skills=true" width="455"/>
   </p>
 </details>
+</p>
+
+<!-- <h2 align="left">📫 How to reach me:</h2> -->
 
 <div style="text-align:center">
 <a href="#">
