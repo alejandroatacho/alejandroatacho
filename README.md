@@ -86,5 +86,5 @@
 </details>
 
 <div style="text-align:center">
-  <img src=".github/img/bottom.svg">
+  <img src="img/bottom.svg">
 </div>
