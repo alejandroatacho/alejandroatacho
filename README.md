@@ -77,7 +77,7 @@
 <details align="center">
   <summary>Useless Info, unless your part of the community ❤️</summary>
   <p>Thanks to all the Osu players who got me into development and continued developing long after most of us stopped playing!</p>
-  <br> <p>I am forever in debt to this community!</p>
+  <p>I am forever in debt to this community!</p>
   <p align="center">
   <!-- osu! card -->
   <img src="https://osu-sig.vercel.app/card?user=Themoonbunny&mode=taiko&lang=en&round_avatar=true&animation=true&hue=200&w=1375&h=800&skills=true" width="455"/>
@@ -85,3 +85,6 @@
 </p>
 
 </details>
+<div style="text-align:center">
+  <img src=".github/img/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif">
+</div>
