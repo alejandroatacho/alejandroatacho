@@ -76,13 +76,12 @@
 
 <details align="center">
   <summary>Useless Info, unless your part of the community ❤️</summary>
-  <p>Thanks for all the Osu players who got me into development and continued developing long after most of us stopped playing!</p>
+  <p>Thanks to all the Osu players who got me into development and continued developing long after most of us stopped playing!</p>
+  <br> <p>I am forever in debt to this community!</p>
   <p align="center">
   <!-- osu! card -->
   <img src="https://osu-sig.vercel.app/card?user=Themoonbunny&mode=taiko&lang=en&round_avatar=true&animation=true&hue=200&w=1375&h=800&skills=true" width="455"/>
-  <!-- Spotify card
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" width="321">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"> -->
+
 </p>
 
 </details>
