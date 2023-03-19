@@ -73,3 +73,16 @@
 [![Alejandro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alejandroatacho&theme=react-dark)](https://github.com/alejandroatacho)
 </p>
 <!--START_SECTION:activity-->
+
+<details align="center">
+  <summary>Useless Info, unless your part of the community ❤️</summary>
+  <p>Thanks for all the Osu players who got me into development and continued developing long after most of us stopped playing!</p>
+  <p align="center">
+  <!-- osu! card -->
+  <img src="https://osu-sig.vercel.app/card?user=Themoonbunny&mode=taiko&lang=en&round_avatar=true&animation=true&hue=200&w=1375&h=800&skills=true" width="455"/>
+  <!-- Spotify card
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" width="321">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"> -->
+</p>
+
+</details>
