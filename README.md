@@ -104,7 +104,13 @@
 </details>
 </p>
 
-<!-- <h2 align="left">📫 How to reach me:</h2> -->
+<h2>📫 How to reach me: </h2>
+
+- 📧 Email: [hinamizawa.github@gmaill.com](mailto:hinamizawa.github@gmaill.com)
+<!-- - 🌐 Website: [yourwebsite.com](https://yourwebsite.com) -->
+<!-- - 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) -->
+- 💼 LinkedIn: [Alejandro Atacho](https://www.linkedin.com/in/alejandro-atacho-a0ab97107/)
+- 🎧 Discord: [Hinamizawa#0001](#)
 
 <div style="text-align:center">
 <a href="#">
