@@ -66,7 +66,7 @@
     <li>Master React to develop scalable and maintainable user interfaces and leverage its popularity to work on diverse projects and collaborate with other developers.</li>
     <li>Expand my skill set by learning Node.js, enabling me to build efficient and scalable server-side applications, work with a variety of databases, and enhance my full-stack development capabilities.</li>
   </ul>
-  <li><strong>Become a lot better with Python:</strong></li>
+  <li><strong>Become better with Python:</strong></li>
   <ul>
     <li>Strengthen my Python proficiency to work on a wider range of projects, from web applications and data analysis to machine learning and automation.</li>
   </ul>
