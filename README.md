@@ -91,6 +91,14 @@
 [![Alejandro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alejandroatacho&theme=react-dark)](https://github.com/alejandroatacho)
 </p>
 
+<h2>📫 How to reach me: </h2>
+
+- 📧 Email: [hinamizawa.github@gmaill.com](mailto:hinamizawa.github@gmaill.com)
+- 💼 LinkedIn: [Alejandro Atacho](https://www.linkedin.com/in/alejandro-atacho-a0ab97107/)
+- 🎧 Discord: [Hinamizawa#0001](#)
+<!-- - 🌐 Website: [yourwebsite.com](https://yourwebsite.com) -->
+<!-- - 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) -->
+<br>
 <p align="center">
 <details>
   <summary><strong>🔽 A Tribute to the Osu! Community ❤️ 🔽</strong></summary>
@@ -103,14 +111,6 @@
   </p>
 </details>
 </p>
-
-<h2>📫 How to reach me: </h2>
-
-- 📧 Email: [hinamizawa.github@gmaill.com](mailto:hinamizawa.github@gmaill.com)
-<!-- - 🌐 Website: [yourwebsite.com](https://yourwebsite.com) -->
-<!-- - 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) -->
-- 💼 LinkedIn: [Alejandro Atacho](https://www.linkedin.com/in/alejandro-atacho-a0ab97107/)
-- 🎧 Discord: [Hinamizawa#0001](#)
 
 <div style="text-align:center">
 <a href="#">
