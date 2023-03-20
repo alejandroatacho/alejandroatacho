@@ -61,9 +61,10 @@
   <ul>
     <li>Improve my understanding of Javascript to build more interactive and dynamic web applications, and enhance my front-end development skills.</li>
   </ul>
-  <li><strong>Enter the world of React:</strong></li>
+  <li><strong>Enter the world of React & Node Js:</strong></li>
   <ul>
     <li>Master React to develop scalable and maintainable user interfaces and leverage its popularity to work on diverse projects and collaborate with other developers.</li>
+    <li>Expand my skill set by learning Node.js, enabling me to build efficient and scalable server-side applications, work with a variety of databases, and enhance my full-stack development capabilities.</li>
   </ul>
   <li><strong>Become a lot better with Python:</strong></li>
   <ul>
@@ -73,6 +74,11 @@
   <ul>
     <li>Gain expertise in C++ and Rust to explore system programming, performance optimization, and other low-level applications, enhancing my overall skill set as a developer.</li>
   </ul>
+    <li><strong>Master Assembly:</strong></li>
+  <ul>
+    <li>By learning Assembly, I can confidently say I have achieved everything I wanted in programming.</li>
+  </ul>
+
 </ul>
 
 <h2 align="left">👁️ Visitor Count:</h2>
