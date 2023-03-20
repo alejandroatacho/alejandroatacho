@@ -95,7 +95,7 @@
 
 - 📧 Email: [hinamizawa.github@gmaill.com](mailto:hinamizawa.github@gmaill.com)
 - 💼 LinkedIn: [Alejandro Atacho](https://www.linkedin.com/in/alejandro-atacho-a0ab97107/)
-- 🎧 Discord: [Hinamizawa#0001](#)
+- 🎧 Discord : [᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼#0001](#)
 <!-- - 🌐 Website: [yourwebsite.com](https://yourwebsite.com) -->
 <!-- - 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) -->
 <p align="center">
