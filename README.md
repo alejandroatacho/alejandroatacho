@@ -98,7 +98,6 @@
 - 🎧 Discord: [Hinamizawa#0001](#)
 <!-- - 🌐 Website: [yourwebsite.com](https://yourwebsite.com) -->
 <!-- - 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) -->
-<br>
 <p align="center">
 <details>
   <summary><strong>🔽 A Tribute to the Osu! Community ❤️ 🔽</strong></summary>
