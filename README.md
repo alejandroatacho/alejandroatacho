@@ -104,6 +104,7 @@
 - 🎧 Discord : [᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼#0001](#)
 - 🌐 Website: [alejandroatacho.github.io](alejandroatacho.github.io)
 <!-- - 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) -->
+<br/>
 <p align="center">
 <details>
   <summary><strong>🔽 A Tribute to the Osu! Community ❤️ 🔽</strong></summary>
@@ -116,9 +117,10 @@
   </p>
 </details>
 </p>
+<br/>
 <p align="center">
 <details>
-  <summary><strong>🔽 Personal Schedule/Reminder 🔽</strong></summary>
+  <summary><strong>🔽 Personal Schedule/Reminder 💌	 🔽</strong></summary>
   <br>
   <p align="left"> Programming Road Map
 
