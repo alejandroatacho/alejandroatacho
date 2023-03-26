@@ -120,7 +120,7 @@
 <br/>
 <p align="center">
 <details>
-  <summary><strong>🔽 Personal Schedule/Reminder 💌	 🔽</strong></summary>
+  <summary><strong>🔽 📜 Personal Schedule/Reminder 📜 🔽</strong></summary>
   <br>
   <p align="left"> Programming Road Map
 
