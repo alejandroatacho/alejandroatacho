@@ -1,20 +1,68 @@
-Here's a more professional and comprehensive roadmap for you to follow before 2030:
+# Web Development Roadmap (Before 2030)
 
-Web Development:
+## Web Development:
 
-HTML/CSS: Dedicate 2-4 weeks to learn the fundamentals of HTML and CSS, focusing on layout, responsive design, and accessibility.
-JavaScript: Allocate 6-8 weeks for mastering JavaScript, covering programming concepts, the DOM, and popular libraries such as jQuery.
-React: Spend 4-6 weeks learning React and its ecosystem, including Redux, React Router, and server-side rendering.
-Node.js: Dedicate 8-12 weeks to studying Node.js and its ecosystem, which encompasses Express, Socket.io, and authentication.
-Databases: Allocate 4-8 weeks for learning SQL and one or more database systems like MySQL or MongoDB.
-Backend languages: Spend 8-12 weeks learning a backend language, such as Python or Ruby, and explore web frameworks like Flask or Rails.
-Cloud services: Dedicate 4-8 weeks to learning about cloud services like AWS or Google Cloud Platform and mastering web application deployment.
-Security: Allocate 2-4 weeks for studying web security, including common attacks and prevention strategies.
-Advanced topics: Spend the remainder of your time (6-12 months or more) diving deeper into subjects like web performance optimization, testing, DevOps, and design patterns.
+1. **HTML/CSS** (2-4 weeks)
+   - Fundamentals of HTML and CSS
+   - Layout
+   - Responsive design
+   - Accessibility
 
-Additional Skills:
-Typescript: for web development, will change your life in React 
-Python: Strengthen your Python proficiency in your free time when you need a break from web development. Focus on a wide range of projects, from web applications and data analysis to machine learning and automation.
-Assembly: As a long-term goal, learn Assembly to gain a deeper understanding of low-level programming and computer architecture.
-Rust: Explore Rust to broaden your skill set in system programming, performance optimization, and other low-level applications.
-By following this roadmap, you will develop a strong foundation in web development and programming, allowing you to tackle diverse projects and collaborate effectively with other developers.
+2. **JavaScript** (6-8 weeks)
+   - Programming concepts
+   - The DOM
+   - Popular libraries like jQuery
+
+3. **React** (4-6 weeks)
+   - React fundamentals
+   - Redux
+   - React Router
+   - Server-side rendering
+
+4. **Node.js** (8-12 weeks)
+   - Node.js fundamentals
+   - Express
+   - Socket.io
+   - Authentication
+
+5. **Databases** (4-8 weeks)
+   - SQL
+   - MySQL or MongoDB
+
+6. **Backend languages** (8-12 weeks)
+   - Python or Ruby
+   - Web frameworks like Flask or Rails
+
+7. **Cloud services** (4-8 weeks)
+   - AWS or Google Cloud Platform
+   - Web application deployment
+
+8. **Security** (2-4 weeks)
+   - Web security concepts
+   - Common attacks
+   - Prevention strategies
+
+9. **Advanced topics** (6-12 months or more)
+   - Web performance optimization
+   - Testing
+   - DevOps
+   - Design patterns
+
+## Additional Skills:
+
+1. **Typescript**
+   - For web development: TypeScript is a superset of JavaScript that adds static typing, making it easier to catch errors during development and improving code quality.
+   - Enhanced React development: TypeScript's static typing integrates seamlessly with React, resulting in better developer experience, easier debugging, and more maintainable code.
+   - Scalability: TypeScript is well-suited for larger projects, as the static typing and improved tooling support help manage complexity and maintain code consistency.
+   - Increased productivity: TypeScript's advanced features, such as interfaces and type annotations, lead to improved code completion, refactoring capabilities, and overall development productivity.
+   - Growing popularity: TypeScript has gained widespread adoption among developers and companies, so learning it will increase your marketability and help you stay current with industry trends.
+
+2. **Python**
+   - Strengthen your Python proficiency in your free time when you need a break from web development
+   - Focus on a wide range of projects, from web applications and data analysis to machine learning and automation
+
+3. **Assembly** (long-term goal)
+   - Gain a deeper understanding of low-level programming and computer architecture
+
+4. **Rust & C++**
+   - Broaden your skill set in system programming, performance optimization, and other low-level applications
