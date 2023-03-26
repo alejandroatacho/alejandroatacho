@@ -116,6 +116,9 @@
   </p>
 </details>
 </p>
+[View my Agenda](agenda.md)
+
+
 
 <div style="text-align:center">
 <a href="#">

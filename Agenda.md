@@ -66,3 +66,5 @@
 
 4. **Rust & C++**
    - Broaden your skill set in system programming, performance optimization, and other low-level applications
+5. **Bash/Shell**
+    - Because what is life without a little bit of shelling <3 
