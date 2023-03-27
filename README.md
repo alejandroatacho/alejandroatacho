@@ -25,7 +25,13 @@
 
 <h3 align="left">👨‍💻 Object Oriented Programming:</h3>
 <p>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://cplusplus.com"><img src="https://i.ibb.co/vmbL7Yn/ISO-C-Logo-svg.png" alt="C++" width="auto" height="40" margin-bottom ="-20px"></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+ </p>
+<h3 align="left">📚 Beginner/Learning:</h3>
+<p>
+<a href="https://cplusplus.com"><img src="https://i.ibb.co/vmbL7Yn/ISO-C-Logo-svg.png" alt="C++" width="auto" height="40" margin-bottom ="-20px"></a>
+<a href="#"><img src="https://i.ibb.co/ctbrJJm/rust-logo-128x128.png" alt="Rust" width="auto" height="40" margin-bottom ="-20px"></a>
+<a href="https://cplusplus.com"><img src="https://i.ibb.co/KrkTRTS/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="Assembly" width="auto" height="40" margin-bottom ="-20px"></a>
  </p>
 
 <h3 align="left">🛠️ Frameworks:</h3>
