@@ -128,7 +128,10 @@
 <details>
   <summary><strong>🔽 📜 Personal Schedule/Reminder 📜 🔽</strong></summary>
   <br>
-  <p align="left"> Programming Road Map
+  <p align="left"> 
+  
+# Programming Road Map
+<p>I visit my github everyday, so I use this as a reminder</p>
 
 ## Web Development:
 
