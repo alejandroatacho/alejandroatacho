@@ -113,7 +113,7 @@
 <br/>
 <p align="center">
 <details>
-  <summary><strong>🔽 A Tribute to the Osu! Community ❤️ 🔽</strong></summary>
+  <summary><strong>🔽 ❤️ A Tribute to the Osu! Community ❤️ 🔽</strong></summary>
   <br>
   <p align="center">A special thanks to all the Osu! players who inspired me to dive into development and continued to nurture the passion for creating, even after many of us stopped playing. I am forever grateful to this amazing community!</p>
   <br>
@@ -131,7 +131,7 @@
   <p align="left"> 
   
 # Programming Road Map
-<p>I visit my github everyday, so I use this as a reminder</p>
+<p>I visit my github everyday, so I use this as a reminder for myself!</p>
 
 ## Web Development:
 
