@@ -31,7 +31,7 @@
 <p>
 <a href="https://cplusplus.com"><img src="https://i.ibb.co/vmbL7Yn/ISO-C-Logo-svg.png" alt="C++" width="auto" height="40" margin-bottom ="-20px"></a>
 <a href="#"><img src="https://i.ibb.co/ctbrJJm/rust-logo-128x128.png" alt="Rust" width="auto" height="40" margin-bottom ="-20px"></a>
-<a href="https://cplusplus.com"><img src="https://i.ibb.co/KrkTRTS/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="Assembly" width="auto" height="40" margin-bottom ="-20px"></a>
+<a href="https://cplusplus.com"><img src="https://i.ibb.co/FXtF1xg/assembly.png" alt="Assembly" width="auto" height="40" margin-bottom ="-20px"></a>
  </p>
 
 <h3 align="left">🛠️ Frameworks:</h3>
