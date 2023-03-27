@@ -60,7 +60,7 @@
 <a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document" border="0"></a>
 <a href="http://google.com"><img src="https://i.ibb.co/J58s0dc/kisspng-google-drive-computer-icons-google-docs-transparent-google-drive-png-5ab1174c17bbe1-82756443.png" alt="kisspng-google-drive-computer-icons-google-docs-vector-png-google-drive-5ab1173fd5ce04-4249597815215" width="auto" height="40" alt="google_drive" border="0"></a>
 <br>
-<h2 align="left">🎯 Goals:</h2>
+<h2 align="left">🎯 Skills I'm excited to learn:</h2>
 
 <ul>
   <li><strong>Learn Javascript properly: </strong></li>
@@ -126,7 +126,7 @@
 <br/>
 <p align="center">
 <details>
-  <summary><strong>🔽 📜 Personal Schedule/Reminder 📜 🔽</strong></summary>
+  <summary><strong>🔽 📜 Personal Reminder 📜 🔽</strong></summary>
   <br>
   <p align="left"> 
   
@@ -135,47 +135,47 @@
 
 ## Web Development:
 
-1. **HTML/CSS** (2-4 weeks)
+1. **HTML/CSS** 
    - Fundamentals of HTML and CSS
    - Layout
    - Responsive design
    - Accessibility
 
-2. **JavaScript** (6-8 weeks)
+2. **JavaScript** 
    - Programming concepts
    - The DOM
    - Popular libraries like jQuery
 
-3. **React** (4-6 weeks)
+3. **React** 
    - React fundamentals
    - Redux
    - React Router
    - Server-side rendering
 
-4. **Node.js** (8-12 weeks)
+4. **Node.js**
    - Node.js fundamentals
    - Express
    - Socket.io
    - Authentication
 
-5. **Databases** (4-8 weeks)
+5. **Databases** 
    - SQL
    - MySQL or MongoDB
 
-6. **Backend languages** (8-12 weeks)
+6. **Backend languages** 
    - Python or Ruby
    - Web frameworks like Flask or Rails
 
-7. **Cloud services** (4-8 weeks)
+7. **Cloud services** 
    - AWS or Google Cloud Platform
    - Web application deployment
 
-8. **Security** (2-4 weeks)
+8. **Security** 
    - Web security concepts
    - Common attacks
    - Prevention strategies
 
-9. **Advanced topics** (6-12 months or more)
+9. **Advanced topics** 
    - Web performance optimization
    - Testing
    - DevOps
