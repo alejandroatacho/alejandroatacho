@@ -60,7 +60,7 @@
 <a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document" border="0"></a>
 <a href="http://google.com"><img src="https://i.ibb.co/J58s0dc/kisspng-google-drive-computer-icons-google-docs-transparent-google-drive-png-5ab1174c17bbe1-82756443.png" alt="kisspng-google-drive-computer-icons-google-docs-vector-png-google-drive-5ab1173fd5ce04-4249597815215" width="auto" height="40" alt="google_drive" border="0"></a>
 <br>
-<h2 align="left">🎯 Skills I'm excited to learn:</h2>
+<!-- <h2 align="left">🎯 Skills I'm excited to learn:</h2>
 
 <ul>
   <li><strong>Learn Javascript properly: </strong></li>
@@ -96,7 +96,7 @@
 <a href="https://github.com/alejandroatacho">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandroatacho&layout=compact&langs_count=12&theme=midnight-purple"/>
 </a>
-</p>
+</p> -->
 <h2 align="left">📈 Github Graph:</h2>
 <p>
 
