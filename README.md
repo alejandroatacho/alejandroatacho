@@ -105,7 +105,7 @@
 
 <h2>📫 How to reach me: </h2>
 
-- 📧 Email: [hinamizawa.github@gmaill.com](mailto:hinamizawa.github@gmaill.com)
+- 📧 Email: [hinamizawa.github@gmail.com](mailto:hinamizawa.github@gmail.com)
 - 💼 LinkedIn: [Alejandro Atacho](https://www.linkedin.com/in/alejandro-atacho-a0ab97107/)
 - 🎧 Discord : [Hinamizawa#0001](#)
 - 🌐 Website: [alejandroatacho.github.io](alejandroatacho.github.io)
