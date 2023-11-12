@@ -7,7 +7,7 @@
 
 # <h1 align="center">Hello 👾, Welcome to my Github page</h1>
 
-<h3 align="center">I'm a Developer based in Curaçao, currently balancing my university studies with work. I use GitHub to host/backup fun mini-projects that I can return to in my free time.</h3>
+<h3 align="center">I'm a Developer based in Curaçao, currently balancing my university studies with programming I use GitHub to host/backup fun mini-projects that I can return to in my free time.</h3>
 <br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=alejandroatacho&theme=onedark" alt="alejandroatacho" /></a> </p>
 
