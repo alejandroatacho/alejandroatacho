@@ -28,7 +28,7 @@
 <ul>
   <li>📧 Email: <a href="mailto:hinamizawa.github@gmail.com">hinamizawa.github@gmail.com</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/alejandro-atacho-a0ab97107/">Alejandro Atacho</a></li>
-  <li>🎧 Discord: hinamizawa</li>
+  <li>🎧 Discord: <a href="https://discordapp.com/users/219938347668340738">hinamizawa</a></li>
   <li>🌐 Website: <a href="https://alejandroatacho.github.io">alejandroatacho.github.io</a></li>
 </ul>
 
