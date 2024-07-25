@@ -16,11 +16,8 @@
 <p align="left">
   <img src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" alt="Visitor Counter" />
 </p>
-
 <p align="center">
   <a href="#">
     <img src=".github/img/Bottom.svg" alt="Bottom Image">
   </a>
 </p>
-
-
