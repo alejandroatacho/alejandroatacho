@@ -17,16 +17,6 @@
   <img src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" alt="Visitor Counter" />
 </p>
 
-<h2>📫 How to reach me:</h2>
-<ul>
-  <li>📧 Email: <a href="mailto:hinamizawa.github@gmail.com">hinamizawa.github@gmail.com</a></li>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/alejandro-atacho-a0ab97107/">Alejandro Atacho</a></li>
-  <li>🎧 Discord: <a href="https://discordapp.com/users/219938347668340738">hinamizawa</a></li>
-  <li>🌐 Website: <a href="https://alejandroatacho.github.io">alejandroatacho.github.io</a></li>
-</ul>
-
-<br/>
-
 <p align="center">
   <a href="#">
     <img src=".github/img/Bottom.svg" alt="Bottom Image">
