@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hello 👾, Welcome to my Github page</h1>
-<h3 align="center">I'm a Developer based in Curaçao, currently balancing my university studies with programming. I use GitHub to host/backup fun mini-projects that I can return to in my free time.</h3>
+<h3 align="center">I'm a Developer based in Curaçao, currently balancing my university studies and work with programming. I use GitHub to host/backup fun mini-projects that I can return to in my free time.</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alejandroatacho&theme=onedark" alt="GitHub Trophies" />
@@ -15,13 +15,6 @@
 <h2 align="left">👁️ Visitor Count:</h2>
 <p align="left">
   <img src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" alt="Visitor Counter" />
-</p>
-
-<h2>📊 Stats:</h2>
-<p align="left">
-  <a href="https://github.com/alejandroatacho">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandroatacho&layout=compact&langs_count=12&theme=midnight-purple" alt="Top Languages" />
-  </a>
 </p>
 
 <h2>📫 How to reach me:</h2>
