@@ -9,7 +9,7 @@
 <h3 align="center">I'm a Developer based in Curaçao, currently balancing my university studies and work with programming. I use GitHub to host/backup fun mini-projects that I can return to in my free time.</h3>
 
 <p align="center">
-  <img src="https://github.curacaowebstudio.com/badges/trophy?username=alejandroatacho&theme=onedark&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github.curacaowebstudio.com/badges/trophy?username=alejandroatacho&theme=onedark&row=2&column=6&margin-w=15&margin-h=15&v=2" alt="GitHub Trophies" />
 </p>
 <!--
 <p align="center">
