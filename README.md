@@ -11,10 +11,11 @@
 <p align="center">
   <img src="https://github.curacaowebstudio.com/badges/trophy?username=alejandroatacho&theme=onedark&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
+<!--
 <p align="center">
   <img src="https://github.curacaowebstudio.com/badges/stats?username=alejandroatacho&show_icons=true&rank_icon=percentile&theme=merko&hide_border=true" alt="GitHub Stats &amp; Rank" />
 </p>
-
+-->
 <h2 align="left">👁️ Visitor Count:</h2>
 <p align="left">
   <img src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" alt="Visitor Counter" />
