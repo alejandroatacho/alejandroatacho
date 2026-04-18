@@ -2,7 +2,7 @@
 **alejandroatacho/alejandroatacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alejandroatacho&theme=merko&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github.curacaowebstudio.com/badges/streak?user=alejandroatacho&theme=merko&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <h1 align="center">Hello 👾, Welcome to my Github page</h1>
