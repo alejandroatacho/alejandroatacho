@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hello 👾, Welcome to my Github page</h1>
-<h3 align="center">I'm a Developer based in Curaçao, currently balancing my university studies and work with programming. I use GitHub to host/backup fun mini-projects that I can return to in my free time.</h3>
+<h3 align="center">I'm a Developer based in Curaçao, currently balancing Freelancing & Personal Programming. I use GitHub to host/backup fun mini-projects that I can return to in my free time or for private repository for private projects for clients or for myself.</h3>
 
 <p align="center">
   <img src="https://github.curacaowebstudio.com/badges/trophy?username=alejandroatacho&theme=onedark&row=2&column=6&margin-w=15&margin-h=15&v=2" alt="GitHub Trophies" />
